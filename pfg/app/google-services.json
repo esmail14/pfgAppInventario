@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "497176541852",
+    "firebase_url": "https://appnueva-bde66.firebaseio.com",
+    "project_id": "appnueva-bde66",
+    "storage_bucket": "appnueva-bde66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497176541852:android:f2325914091e1972",
+        "android_client_info": {
+          "package_name": "com.example.esmail.inventario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497176541852-nm8cipn3ef3sueebn7n6f8367fpn1sdj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.esmail.inventario",
+            "certificate_hash": "7187901365f815851bf6d8790f9cdf6a1148a07d"
+          }
+        },
+        {
+          "client_id": "497176541852-f3iifjjb1bhej3ilrmlrqn4tc96u9h20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPlaCIYvkJsLkgOsjPKLz3UwSJKfAwIjk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497176541852-f3iifjjb1bhej3ilrmlrqn4tc96u9h20.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
